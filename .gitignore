@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# MLflow stuff
+*.mlruns/
+
+# Mlflow
+mlruns/
+artifacts/
+outputs/
+mlflow.db
+
+# Mac
+.DS_Store
