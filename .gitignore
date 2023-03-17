@@ -137,6 +137,7 @@ artifacts/
 outputs/
 mlflow.db
 artifacts_stage/
+artifacts_store/
 
 # Mac
 .DS_Store
